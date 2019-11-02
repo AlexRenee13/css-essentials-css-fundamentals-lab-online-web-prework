@@ -8,6 +8,7 @@ h1{
 }
 figure{
   margin: auto;
+  text-align: center;
 }
 nav a{
   padding: 10px;
